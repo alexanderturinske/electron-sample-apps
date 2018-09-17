@@ -25,7 +25,7 @@ if(process.platform  == 'win32'){
 app.commandLine.appendSwitch('ppapi-flash-path', ppapi_flash_path);
 
 // Specify flash version, for example, v18.0.0.203
-app.commandLine.appendSwitch('ppapi-flash-version', '18.0.0.203');
+app.commandLine.appendSwitch('ppapi-flash-version', '31.0.0.108');
 
 app.on('ready', function() {
   mainWindow = new BrowserWindow({

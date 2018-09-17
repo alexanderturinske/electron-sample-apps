@@ -11,7 +11,7 @@ All samples are test on Electron v1.6.11.
 
 ## How to run apps
 
-1. Install Electron via `npm install -g electron`.
+1. Install Electron via `npm install -g electron@3.0.0-beta.12`.
 
 2. Run the sample via `electron <electron-sample-apps-path>/<sample-name>`.
 
